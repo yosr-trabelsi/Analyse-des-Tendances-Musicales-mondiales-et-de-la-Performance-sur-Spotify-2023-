@@ -19,9 +19,9 @@ L'objectif est d'explorer les caractéristiques des morceaux les plus performant
 ## Outils utilisés
 
 * **Power BI**
-* **Power Query** — préparation et transformation des données
-* **DAX** — création de mesures et indicateurs
-* **Data Visualization** — création du dashboard interactif
+* **Power Query** : préparation et transformation des données
+* **DAX** : création de mesures et indicateurs
+* **Data Visualization** : création du dashboard interactif
 
 ## Analyse
 
