@@ -1,5 +1,5 @@
 # Analyse-des-Tendances-Musicales-mondiales-et-de-la-Performance-sur-Spotify-2023-
-# Analyse des Tendances Musicales Mondiales et de la Performance sur Spotify (2023)
+
 
 ## Description
 
